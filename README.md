@@ -6,6 +6,7 @@ This project endeavors to streamline the process of booking, managing, and track
 The primary purpose of the Online Cab Booking System is to offer a user-friendly, online platform that revolutionizes the way individuals access and manage transportation services. 
 By leveraging the power of PHP and MySQL, this project aims to overcome the limitations of conventional cab booking systems, providing a more efficient and accessible means for clients to 
 secure transportation and for drivers to manage their bookings.
+
 **Technologies Used**
 The development of the Online Cab Booking System in PHP with MySQL involves a carefully selected stack of technologies to ensure robust functionality, security, and scalability. The project leverages the following technologies and frameworks:
 PHP (Hypertext Preprocessor)
